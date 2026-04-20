@@ -1,1 +1,1 @@
-I am working on large-scale pre-training and post-training.
+Now working on LLM, was working on quantitative alpha research.
